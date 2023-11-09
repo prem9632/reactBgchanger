@@ -11,7 +11,7 @@ function App() {
    style={{backgroundColor:color
    }}>
     <div id='animate' style={{height:60,backgroundColor:'pink'}}>
-    <h1 style={{ textAlign:'center', fontSize:30, fontWeight:'bolder'}}>Radhe Radhe</h1>
+    <h1 style={{ textAlign:'center', fontSize:30, fontWeight:'bolder'}}>BackgroundColorChanger</h1>
     </div>
     <div   className=" fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2"> 
     <div className="flex flex-wrap justify-center gap-4 shadow-lg bg-white px-3 py-2 rounded-xl"> 
